@@ -34,3 +34,6 @@ patches-*
 
 ## Local configuration
 private.properties
+
+## node.js's module
+node_modules/
