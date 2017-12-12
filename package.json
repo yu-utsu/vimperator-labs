@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yu-utsu/vimperator-labs/issues"
   },
-  "homepage": "https://github.com/yu-utsu/vimperator-labs#readme"
+  "homepage": "https://github.com/yu-utsu/vimperator-labs#readme",
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  }
 }
